@@ -30,15 +30,6 @@ Run the Project
 
 streamlit run app.py
 
-Project Structure
-
-ATS-Resume-Analyzer/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .env
-
 API Configuration
 
 Create a `.env` file and add your Gemini API key:
